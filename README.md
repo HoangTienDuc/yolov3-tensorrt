@@ -1,3 +1,10 @@
+# method structure
+## https://elinux.org/TensorRT/YoloV3
+
+
+# deploy in trtis
+## https://medium.com/@penolove15/yolov3-with-tensorrt-inference-server-44c753905504
+
 # About This Sample
 This Python sample demonstrates how to run YOLOv3-608[^1] (with an input size of 608x608 pixels - in the following just referred to as YOLOv3) in TensorRT 5.0, using ONNX-TensorRT (https://github.com/onnx/onnx-tensorrt).
 
